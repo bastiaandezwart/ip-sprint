@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>bastiaan.de.zwart</sys_created_by>
+        <sys_created_on>2020-12-09 09:50:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>263200ec074d2010fbfbf8ed7c1ed09f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Spotify</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Spotify" source="x_197430_spotify">889dfb9c074d2010fbfbf8ed7c1ed0b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Spotify">889dfb9c074d2010fbfbf8ed7c1ed0b2</sys_scope>
+        <sys_update_name>sys_app_application_263200ec074d2010fbfbf8ed7c1ed09f</sys_update_name>
+        <sys_updated_by>bastiaan.de.zwart</sys_updated_by>
+        <sys_updated_on>2020-12-09 09:50:14</sys_updated_on>
+        <title>Spotify</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

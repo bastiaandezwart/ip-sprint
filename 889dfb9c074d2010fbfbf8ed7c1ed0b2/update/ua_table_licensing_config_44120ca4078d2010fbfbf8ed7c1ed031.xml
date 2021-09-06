@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_197430_spotify_spotify_history</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>bastiaan.de.zwart</sys_created_by>
+        <sys_created_on>2020-12-09 09:49:31</sys_created_on>
+        <sys_id>44120ca4078d2010fbfbf8ed7c1ed031</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_197430_spotify_spotify_history</sys_name>
+        <sys_package display_value="Spotify" source="x_197430_spotify">889dfb9c074d2010fbfbf8ed7c1ed0b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Spotify">889dfb9c074d2010fbfbf8ed7c1ed0b2</sys_scope>
+        <sys_update_name>ua_table_licensing_config_44120ca4078d2010fbfbf8ed7c1ed031</sys_update_name>
+        <sys_updated_by>bastiaan.de.zwart</sys_updated_by>
+        <sys_updated_on>2020-12-09 09:49:31</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

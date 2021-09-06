@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Spotify History" language="en" table="x_197430_spotify_spotify_history">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Spotify History</label>
+            <language>en</language>
+            <name>x_197430_spotify_spotify_history</name>
+            <plural>Spotify Histories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bastiaan.de.zwart</sys_created_by>
+            <sys_created_on>2020-12-09 09:49:31</sys_created_on>
+            <sys_id>0812c8a4078d2010fbfbf8ed7c1ed0b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Spotify History</sys_name>
+            <sys_package display_value="Spotify" source="x_197430_spotify">889dfb9c074d2010fbfbf8ed7c1ed0b2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Spotify">889dfb9c074d2010fbfbf8ed7c1ed0b2</sys_scope>
+            <sys_update_name>sys_documentation_x_197430_spotify_spotify_history__en</sys_update_name>
+            <sys_updated_by>bastiaan.de.zwart</sys_updated_by>
+            <sys_updated_on>2020-12-09 09:49:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

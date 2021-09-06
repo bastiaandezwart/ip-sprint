@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="time_played_ms" label="Time Played (ms)" language="en" table="x_197430_spotify_spotify_history">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>time_played_ms</element>
+            <help/>
+            <hint/>
+            <label>Time Played (ms)</label>
+            <language>en</language>
+            <name>x_197430_spotify_spotify_history</name>
+            <plural>Time Played (ms)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>bastiaan.de.zwart</sys_created_by>
+            <sys_created_on>2020-12-09 09:49:32</sys_created_on>
+            <sys_id>88120ca4078d2010fbfbf8ed7c1ed04b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Time Played (ms)</sys_name>
+            <sys_package display_value="Spotify" source="x_197430_spotify">889dfb9c074d2010fbfbf8ed7c1ed0b2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Spotify">889dfb9c074d2010fbfbf8ed7c1ed0b2</sys_scope>
+            <sys_update_name>sys_documentation_x_197430_spotify_spotify_history_time_played_ms_en</sys_update_name>
+            <sys_updated_by>bastiaan.de.zwart</sys_updated_by>
+            <sys_updated_on>2020-12-09 09:49:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

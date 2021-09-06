@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Spotify History" max_length="40" name="x_197430_spotify_spotify_history" sizeclass="7090" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Artist" max_length="40" name="artist" type="string"/>
+        <element label="Time Played (ms)" max_length="40" name="time_played_ms" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Track" max_length="40" name="track" type="string"/>
+    </element>
+</database>
